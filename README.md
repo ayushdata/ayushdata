@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on Spring Boot and Django to build highly scalable microservices and applications.  
   
 
-- ⚡ I'm exploring the field of Blockchain and Web3.
+- ⚡ I'm exploring the field of Blockchain (Smart Contracts, DeFi) and Web3.
 
 
 - 🌱 I'm also enhancing my knowledge of Full-Stack development in JS Stack.
@@ -20,7 +20,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 
 
